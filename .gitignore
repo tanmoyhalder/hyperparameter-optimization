@@ -9,4 +9,6 @@
 *.h5
 
 # folders
+/venv_hyperparam_opt
+
 
